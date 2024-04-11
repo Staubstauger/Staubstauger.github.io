@@ -10,7 +10,7 @@ It now includes steps for GitHub.
 
 I love working with Git.
 
-Now I added a <mark>new line</mark> to this Readme!
+Now I added a **new line** to this Readme!
 
-> Yesterday is history. Tomorrow is a mystery, but today is a gift. That's why it is called the present.
+> Yesterday is history. Tomorrow is a mystery, but today is a gift. That's why it is called the present.<br>
 > ~ Grand Master Oogway
